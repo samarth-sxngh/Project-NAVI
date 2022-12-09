@@ -3,7 +3,7 @@
  * The basic idea of this software is to read audio messages, convert to string of text messages, and take decision.
  * The text are the commands of the Robot that are programmed in this software.
  * Based on the command match the audio IC is given instrutions to play corresponding messages that are stored in the IC
- * Contributors Sailee Phal, Samarth Singh, Sayhan Ali, Bhairavi Gawas, Kushi Anjum
+ * Contributor Samarth Singh
  * No part of this software should be copied 
  */
 #include <SPI.h>   // include the library for serial communication for voice module
